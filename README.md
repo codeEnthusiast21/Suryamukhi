@@ -72,8 +72,8 @@ Suryamukhi was developed during Innogeeks club event and later was recognised in
 IEE SSH'24 and Navonmesh Idea Challenge'25
 
 <p align="center">
-  <img src="assets/win-1.jpg" width="45%"/>
-  <img src="assets/win-2.jpg" width="45%"/>
+  <img src="assets/win-1.png" width="45%"/>
+  <img src="assets/win-2.png" width="45%"/>
 </p>
 
 ---
